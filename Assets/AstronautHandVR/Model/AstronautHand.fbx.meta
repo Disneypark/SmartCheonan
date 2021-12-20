@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 5c65defde470c534591abe58a1edebcb
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 3934430668142740086
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Idle|.000
+  - first:
+      74: 8879533257966469382
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Idle|Arma
+  - first:
+      74: -9022619029717246924
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Wrist.000
+  - first:
+      74: 7160269378526550137
+    second: Armature|Armature|Armature|Armature|Armature|Armature|Armature|Wrist|Arm
+  - first:
+      74: 2171034657260629122
+    second: Armature|Armature|Armature|Armature|Armature|Idle|Armature|Idle.001|Arma
+  - first:
+      74: -2246214215338903032
+    second: Armature|Armature|Armature|Armature|Armature|Idle|Armature|Idle|Arma.000
+  - first:
+      74: 2535341627481148263
+    second: Armature|Armature|Armature|Armature|Armature|Idle|Armature|Idle|Armature
+  - first:
+      74: -7186740911736669061
+    second: Armature|Armature|Armature|Armature|Armature|Wrist|Armature|Wrist.001|Ar
+  - first:
+      74: 3574632206936643509
+    second: Armature|Armature|Armature|Armature|Armature|Wrist|Armature|Wrist|Ar.000
+  - first:
+      74: -6589647951445240594
+    second: Armature|Armature|Armature|Armature|Armature|Wrist|Armature|Wrist|Armatu
+  - first:
+      74: 7129181387720803343
+    second: Armature|Armature|Armature|Armature|IndexSqueeze|IndexSqueeze|Armature|A
+  - first:
+      74: 8339319669969970189
+    second: Armature|Armature|Armature|Armature|MiddleSqueeze.001|MiddleSqueeze.001|
+  - first:
+      74: 4734034654047534922
+    second: Armature|Armature|Armature|Armature|MiddleSqueeze|MiddleSqueeze|Armature
+  - first:
+      74: -7442022336084938968
+    second: Armature|Armature|Armature|Armature|PinkySquueze|PinkySquueze|Armature|A
+  - first:
+      74: -6619532896037150775
+    second: Armature|Armature|Armature|Armature|RingSqueeze|RingSqueeze|Armature|Arm
+  - first:
+      74: -3938071787169060544
+    second: Armature|Armature|Armature|Armature|ThumbRot|ThumbRot|Armature|Armature|
+  - first:
+      74: -582132505576454421
+    second: Armature|Armature|Armature|Armature|ThumbSqueeze|ThumbSqueeze|Armature|A
+  - first:
+      74: 3949184196891408138
+    second: Armature|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: -79457305539577969
+    second: Armature|Armature|Armature|Wrist|Armature|Wrist
+  - first:
+      74: 8958896714541863687
+    second: Armature|Armature|IndexSqueeze|IndexSqueeze
+  - first:
+      74: -3516714010753550103
+    second: Armature|Armature|MiddleSqueeze.001|MiddleSqueeze.001
+  - first:
+      74: -7220206346743723273
+    second: Armature|Armature|MiddleSqueeze|MiddleSqueeze
+  - first:
+      74: -5562633381100702109
+    second: Armature|Armature|PinkySquueze|PinkySquueze
+  - first:
+      74: 3164568552793933512
+    second: Armature|Armature|RingSqueeze|RingSqueeze
+  - first:
+      74: -9036929268327004089
+    second: Armature|Armature|ThumbRot|ThumbRot
+  - first:
+      74: 1923172664507476699
+    second: Armature|Armature|ThumbSqueeze|ThumbSqueeze
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None.000
+    second: {fileID: 2100000, guid: 7e7f20c9f8a1e414cafd5ba0af40a6cb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
