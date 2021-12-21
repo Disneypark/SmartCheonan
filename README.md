@@ -1,4 +1,6 @@
 # SmartCheonanVR
+
+![image](https://i.ibb.co/nkCHvzj/title.png)
  
 안녕하세요 ***Team SpaceAurura***의 ***VR개발자 박종현*** 입니다.<br>
 SpaceAurora는 증강현실, 가상현실, 빛의 예술로 공간을 만들어 전시하며<br>
